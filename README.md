@@ -1,6 +1,6 @@
-<img src="https://github.com/tiwarisuraj136/tiwarisuraj136/blob/main/surajbanner.png">
+<img src="https://github.com/tiwarisuraj136/tiwarisuraj136/blob/main/surajbanner.shakir">
 
-<h1 align="center">Hi 👋, I'm SURAJ TIWARI</h1>
+<h1 align="center">Hi 👋, I'm Shakir Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -11,16 +11,16 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 📫 How to reach me **tiwarisuraj136@gmail.com**
+- 📫 How to reach me **shakirk72@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/surajti49370247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/surajti49370247" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/suraj-tiwari-030747199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/suraj-tiwari-030747199" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/suraj.tiwari.33046736?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suraj.tiwari.33046736?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tiwarisuraj136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tiwarisuraj136/" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/surajti49370247" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/suraj-tiwari-030747199" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suraj.tiwari.33046736?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tiwarisuraj136/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
